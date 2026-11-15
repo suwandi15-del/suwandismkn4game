@@ -1,0 +1,6 @@
+{
+  "name": "REALISTIC RACING SIMULATOR",
+  "description": "Game balap mobil 3D realistis berlatar jalan pegunungan Sumatera Utara dengan 5 pilihan mobil sport, AI lawan, tiga sudut kamera, fisika drifting, dan siklus siang-sore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
